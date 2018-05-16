@@ -4,9 +4,9 @@ This is project to store available spitgot plugin with following name and versio
 
 - `PluginName-x.y.z.jar`
 - `PluginName-x.y.z-SNAPSHOT.jar`
-- `PluginName-x.y.z-SNAPSHOT.abc123.jar`
+- `PluginName-x.y.z-SNAPSHOT.abc1234.jar`
 - `PluginName-x.y.z-SNAPSHOT.yymm.jar`
-- `PluginName-x.y.z-SNAPSHOT.yymm.abc123.jar`
+- `PluginName-x.y.z-SNAPSHOT.yymm.abc1234.jar`
 
 ## Source
 
