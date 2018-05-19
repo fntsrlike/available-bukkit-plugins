@@ -1,12 +1,32 @@
-# Available Spigot Plugins
+# Available Bukkit Plugins
 
-This is project to store available spitgot plugin with following name and version format:
+This is the project to store available bukkit plugin with following name and version format:
 
-- `PluginName-x.y.z.jar`
-- `PluginName-x.y.z-SNAPSHOT.jar`
-- `PluginName-x.y.z-SNAPSHOT.abc1234.jar`
-- `PluginName-x.y.z-SNAPSHOT.yymm.jar`
-- `PluginName-x.y.z-SNAPSHOT.yymm.abc1234.jar`
+- `PluginName-A.B.C.vX.jar`
+- `PluginName-X.Y.Z.jar`
+- `PluginName-X.Y.Z-SNAPSHOT.jar`
+- `PluginName-X.Y.Z-SNAPSHOT.abc1234.jar`
+- `PluginName-X.Y.Z-SNAPSHOT.yymm.jar`
+- `PluginName-X.Y.Z-SNAPSHOT.yymm.abc1234.jar`
+
+Variables:
+
+- `A.B.C` means Minecraft version.
+- `A.B.C.vX` means plugin version X in Minecraft version A.B.C.
+- `X.Y.Z` meas plugin version.
+- `SNAPSHOT` means this plugin version is not stable.
+- `yymm` means this snapshot built at which year(yy) and month(mm).
+- `abc1234` means commit hash of this snapshot.
+
+Example.
+
+- `TrainCarts-1.12.2.v2.jar`
+- `AuthMe-5.3.0.jar`
+- `HopperHopper-1.0.0-SNAPSHOT.jar`
+- `worldedit-6.1.8-SNAPSHOT.cd4729f.jar`
+- `LagMonitor-1.15.0-SNAPSHOT.1707.jar`
+- `MultiverseCore-2.5.1-SNAPSHOT.1707.ceb6850.jar`
+- `TrainCarts-1.12.2-SNAPSHOT.85b77a1.jar`
 
 ## Source
 
